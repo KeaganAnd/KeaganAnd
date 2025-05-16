@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keagan
 
-I'm a software engineer based in the US, passionate about how software interacts with everything—from low-level hardware to machine learning. I focus on building backend applications and love exploring how all the pieces of computing fit together.
+I'm a software engineer based in the US, passionate about how software interacts with everything, from low-level hardware to machine learning. I focus on building backend applications and love exploring how all the pieces of computing fit together.
 
 ## 🚀 About Me
 
