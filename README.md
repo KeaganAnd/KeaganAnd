@@ -17,8 +17,8 @@ I'm a software engineer based in the US, passionate about how software interacts
 
 ## 📈 GitHub Stats
 
-![Keagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Keagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keaganand&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keaganand&layout=compact)
 
 ## 💡 Favorite Quote
 
