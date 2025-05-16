@@ -4,7 +4,7 @@ I'm a software engineer based in the US, passionate about how software interacts
 
 ## 🚀 About Me
 
-- Currently building a programming learning website  
+- Currently building a programming learning website called The Hydra Project. Seeking to teach people with no programming experience. 
 - Learning Rust and JavaScript  
 - Ask me about backend development, Python, or Three.js  
 - Fascinated by how abstraction powers the modern computer world
