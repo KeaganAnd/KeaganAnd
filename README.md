@@ -4,16 +4,16 @@ I'm a software engineer based in the US, passionate about how software interacts
 
 ## 🚀 About Me
 
-- 🔭 Currently building a programming learning website  
-- 🌱 Learning Rust and JavaScript  
-- 💬 Ask me about backend development, Python, or Three.js  
-- 🧠 Fascinated by how abstraction powers the modern computer world
+- Currently building a programming learning website  
+- Learning Rust and JavaScript  
+- Ask me about backend development, Python, or Three.js  
+- Fascinated by how abstraction powers the modern computer world
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: Python, Rust, C++, Lua, JavaScript  
-- ⚙️ Frameworks & Tools: Three.js, PyQt6  
-- 🛠️ Editor: VS Code (learning Vim motions)
+- Languages: Python, Rust, C++, Lua, JavaScript  
+- Frameworks & Tools: Three.js, PyQt6  
+- Editor: VS Code (learning Vim motions)
 
 ## 📈 GitHub Stats
 
