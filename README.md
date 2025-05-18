@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Keagan
 https://keagana.me
 
-I'm a software engineer based in the US, passionate about how software interacts with everything, from low-level hardware to machine learning. I focus on building backend applications and love exploring how all the pieces of computing fit together.
+I am a software engineering student, passionate about every layer of tech. From the hardware level and every layer of abstraction there after. I focus on building backend applications and love exploring how all the pieces of computing fit together.
 
 ## 🚀 About Me
 
-- Currently building a programming learning website called The Hydra Project. Seeking to teach people with no programming experience. 
+- Currently building a free website called The Hydra Project. Seeking to teach people with no programming experience
 - Learning Rust and JavaScript  
-- Ask me about backend development, Python, or Three.js  
+- Ask me about backend development and Python
 - Fascinated by how abstraction powers the modern computer world
 
 ## 🛠️ Tech Stack
@@ -26,4 +26,4 @@ I'm a software engineer based in the US, passionate about how software interacts
 > “Simplicity is a prerequisite for reliability.”  
 > — *Edsger Dijkstra*
 
-This quote reminds me how crucial abstraction is in making complex systems understandable and reliable.
+This quote speaks to me in my pursuit to keep simplicity within my code.
