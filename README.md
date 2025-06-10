@@ -6,7 +6,7 @@ I am a software engineering student, passionate about every layer of tech. From 
 ## 🚀 About Me
 
 - Currently building a free website called The Hydra Project. Seeking to teach people with no programming experience
-- Learning Rust and JavaScript  
+- Learning Rust and C!  
 - Ask me about backend development and Python
 - Fascinated by how abstraction powers the modern computer world
 
