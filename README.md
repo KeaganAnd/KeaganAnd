@@ -14,7 +14,7 @@ I've recently developed an interest in systems programming
 
 - Languages: Python, Rust, C++, Lua, JavaScript  
 - Frameworks & Tools: Three.js, PyQt6  
-- Editor: VS Code (learning Vim motions)
+- Editor: NeoVim, VS Code
 
 ## 📈 GitHub Stats
 
