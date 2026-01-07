@@ -18,6 +18,7 @@ I've recently developed an interest in systems programming
 
 ##  GitHub Stats
 
-![Keagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keaganand&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keaganand&layout=compact)
+![Keagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeaganAnd&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeaganAnd&layout=compact)
+
 
