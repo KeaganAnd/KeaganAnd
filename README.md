@@ -18,7 +18,7 @@ I got my start in a Python summer camp way back in elementary school. Now I am s
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?&logo=css&logoColor=white)
 
 ### Frameworks & Tools
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
