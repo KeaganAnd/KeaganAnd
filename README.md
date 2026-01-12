@@ -17,7 +17,7 @@ I got my start in a Python summer camp way back in elementary school. Now I am s
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?&logo=css&logoColor=white)
 
 ### Frameworks & Tools
@@ -25,10 +25,10 @@ I got my start in a Python summer camp way back in elementary school. Now I am s
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PyQt6-41CD52?logo=qt&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?&logo=Firefox-Browser&logoColor=white)
 
 ### Editors
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
