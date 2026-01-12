@@ -1,13 +1,12 @@
 # Hi, I'm Keagan  
 [keagana.me](https://keagana.me)
 
-I am a software engineering student, passionate about every layer of tech, from hardware through each abstraction layer. I focus on building backend applications and enjoy exploring how the pieces of computing fit together. Recently, I’ve developed a strong interest in systems programming.
+I got my start in a Python summer camp way back in elementary school. Now I am studying Computer Science as a **Junior**. I've taken an interest in low level programming and low level subjects!
 
 ## About Me
-- Currently working on a terminal emulator written in C with OpenGL
-- Learning Rust and C
-- Ask me about backend development and Python
-- Fascinated by how abstraction powers the modern computer world
+- Working on a toy database called [MagBase](https://github.com/KeaganAnd/MagBase)
+- Recently finished working on a [terminal emulator](https://github.com/KeaganAnd/terminal-emulator) written in C with OpenGL
+- Learning C
 
 ## Tech Stack
 
