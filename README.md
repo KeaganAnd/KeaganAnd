@@ -7,7 +7,7 @@ I got my start in a Python summer camp way back in elementary school. Now I am s
 
 ## About Me
 - Recently finished working on a [terminal emulator](https://github.com/KeaganAnd/terminal-emulator) written in C with OpenGL
-- Also recently finished a [MagBase](https://github.com/KeaganAnd/MagBase)
+- Also recently finished a toy database called [MagBase](https://github.com/KeaganAnd/MagBase) written in C
 - Advancing my knowledge of C
 
 ## Tech Stack
