@@ -6,9 +6,9 @@
 I got my start in a Python summer camp way back in elementary school. Now I am studying Computer Science as a **Junior**. I've taken an interest in low level programming and low level subjects!
 
 ## About Me
-- Working on a toy database called [MagBase](https://github.com/KeaganAnd/MagBase)
 - Recently finished working on a [terminal emulator](https://github.com/KeaganAnd/terminal-emulator) written in C with OpenGL
-- Learning C
+- Also recently finished a [MagBase](https://github.com/KeaganAnd/MagBase)
+- Advancing my knowledge of C
 
 ## Tech Stack
 
